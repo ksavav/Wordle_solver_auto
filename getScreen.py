@@ -69,7 +69,7 @@ class getScreen:
 
         result = requests.post(url, 
                     files = {path : file_bytes},
-                    data  = {'apikey' : "K82240883388957",
+                    data  = {'apikey' : "-->Key<--",
                             'OCREngine' : '3'})
 
         
